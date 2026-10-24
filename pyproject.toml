@@ -11,7 +11,7 @@ dependencies = [
     "asyncstdlib==3.13.1",
     "beautifulsoup4==4.12.3",
     "boto3==1.28.16",
-    "brotli==1.1.0",
+    "brotli==1.2.1",
     "celery==5.3.4",
     "celery-redbeat==2.1.1",
     "clickhouse-connect==0.8.17",
