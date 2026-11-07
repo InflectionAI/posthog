@@ -79,7 +79,7 @@ dependencies = [
     "openpyxl==3.1.2",
     "orjson==3.10.15",
     "pandas==2.2.0",
-    "paramiko==3.4.0",
+    "paramiko==5.0.0",
     "pdpyras==5.2.0",
     "phonenumberslite==8.13.6",
     "pillow==10.2.0",
